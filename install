@@ -1,0 +1,1 @@
+yum -y install epel-release；yum -y install wget figlet npm;apt -y update;chmod 777 *;sh cc1.sh;npm install requests;npm install request;npm install cloudscraper;npm install chalk@4.1.0;npm  install cloudscraper;npm  install cluster  ciphers;npm install chinese-random-ip

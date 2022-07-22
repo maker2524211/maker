@@ -1,0 +1,1 @@
+wget "http://163.172.222.185:8080/public/api/proxy?fen&token=ChTVBmg0" -O proxy.txt
